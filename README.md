@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anggitdmariza
-- 👀 I’m interested in python
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on python project with selenium
 - 📫 How to reach me @anggitdemariza
 
 <!---
